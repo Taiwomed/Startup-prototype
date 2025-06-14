@@ -236,8 +236,9 @@ git push origin main
 Issue: GitHub push failed with authentication error.
 Solution: Used Personal Access Token with repo scope for Taiwomed/Startup-prototype.
 
-Screenshot
-Landing Page
+## Screenshot
+![Landing Page](screenshot.png)
+
 Captured at https://54.247.7.11 on June 13, 2025.
 
 Public IP
