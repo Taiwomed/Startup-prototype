@@ -246,5 +246,5 @@ Server: AWS EC2 (Ubuntu 22.04), Nginx
 
 Version Control: Git, GitHub
 
-## Screenshot
-![Landing Page](screenshot.png)
+##Screenshot
+![Landing Page](https://raw.githubusercontent.com/Taiwomed/Startup-prototype/main/screenshot.png)
